@@ -6,5 +6,8 @@ window.lecturas = {
   "2025-10-25": {"libro": "Josué", "capitulo": 5, "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-5"},
   "2025-10-26": {"libro": "Josué", "capitulo": 6, "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-6"},
   "2025-10-27": {"libro": "Josué", "capitulo": 7, "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-7"},
-  "2025-10-28": {"libro": "Josué", "capitulo": 8, "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-8"}
+  "2025-10-28": {"libro": "Josué", "capitulo": 8, "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-8"},
+  "2025-10-29": {"libro": "Josué", "capitulo": 9, "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-9"},
+  "2025-10-30": {"libro": "Josué", "capitulo": 10, "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-10"},
+  "2025-10-31": {"libro": "Josué", "capitulo": 11, "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-11"}
 };
