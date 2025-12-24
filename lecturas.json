@@ -1,0 +1,4900 @@
+<!-- Archivo de datos de lecturas para el calendario RPSP -->
+<!-- Generado automáticamente con crear_lecturas_datos.py -->
+<script id="lecturas-json" type="application/json">
+{
+  "2025-10-21": {
+    "libro": "Josué",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-1"
+  },
+  "2025-10-22": {
+    "libro": "Josué",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-2"
+  },
+  "2025-10-23": {
+    "libro": "Josué",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-3"
+  },
+  "2025-10-24": {
+    "libro": "Josué",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-4"
+  },
+  "2025-10-25": {
+    "libro": "Josué",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-5"
+  },
+  "2025-10-26": {
+    "libro": "Josué",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-6"
+  },
+  "2025-10-27": {
+    "libro": "Josué",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-7"
+  },
+  "2025-10-28": {
+    "libro": "Josué",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-8"
+  },
+  "2025-10-29": {
+    "libro": "Josué",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-9"
+  },
+  "2025-10-30": {
+    "libro": "Josué",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-10"
+  },
+  "2025-10-31": {
+    "libro": "Josué",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-11"
+  },
+  "2025-11-01": {
+    "libro": "Josué",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-12"
+  },
+  "2025-11-02": {
+    "libro": "Josué",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-13"
+  },
+  "2025-11-03": {
+    "libro": "Josué",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-14"
+  },
+  "2025-11-04": {
+    "libro": "Josué",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-15"
+  },
+  "2025-11-05": {
+    "libro": "Josué",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-16"
+  },
+  "2025-11-06": {
+    "libro": "Josué",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-17"
+  },
+  "2025-11-07": {
+    "libro": "Josué",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-18"
+  },
+  "2025-11-08": {
+    "libro": "Josué",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-19"
+  },
+  "2025-11-09": {
+    "libro": "Josué",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-20"
+  },
+  "2025-11-10": {
+    "libro": "Josué",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-21"
+  },
+  "2025-11-11": {
+    "libro": "Josué",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-22"
+  },
+  "2025-11-12": {
+    "libro": "Josué",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-23"
+  },
+  "2025-11-13": {
+    "libro": "Josué",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-josue.html#capitulo-24"
+  },
+  "2025-11-14": {
+    "libro": "Jueces",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-1"
+  },
+  "2025-11-15": {
+    "libro": "Jueces",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-2"
+  },
+  "2025-11-16": {
+    "libro": "Jueces",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-3"
+  },
+  "2025-11-17": {
+    "libro": "Jueces",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-4"
+  },
+  "2025-11-18": {
+    "libro": "Jueces",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-5"
+  },
+  "2025-11-19": {
+    "libro": "Jueces",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-6"
+  },
+  "2025-11-20": {
+    "libro": "Jueces",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-7"
+  },
+  "2025-11-21": {
+    "libro": "Jueces",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-8"
+  },
+  "2025-11-22": {
+    "libro": "Jueces",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-9"
+  },
+  "2025-11-23": {
+    "libro": "Jueces",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-10"
+  },
+  "2025-11-24": {
+    "libro": "Jueces",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-11"
+  },
+  "2025-11-25": {
+    "libro": "Jueces",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-12"
+  },
+  "2025-11-26": {
+    "libro": "Jueces",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-13"
+  },
+  "2025-11-27": {
+    "libro": "Jueces",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-14"
+  },
+  "2025-11-28": {
+    "libro": "Jueces",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-15"
+  },
+  "2025-11-29": {
+    "libro": "Jueces",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-16"
+  },
+  "2025-11-30": {
+    "libro": "Jueces",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-17"
+  },
+  "2025-12-01": {
+    "libro": "Jueces",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-18"
+  },
+  "2025-12-02": {
+    "libro": "Jueces",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-19"
+  },
+  "2025-12-03": {
+    "libro": "Jueces",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-20"
+  },
+  "2025-12-04": {
+    "libro": "Jueces",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jueces.html#capitulo-21"
+  },
+  "2025-12-05": {
+    "libro": "Rut",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ruth.html#capitulo-1"
+  },
+  "2025-12-06": {
+    "libro": "Rut",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ruth.html#capitulo-2"
+  },
+  "2025-12-07": {
+    "libro": "Rut",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ruth.html#capitulo-3"
+  },
+  "2025-12-08": {
+    "libro": "Rut",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ruth.html#capitulo-4"
+  },
+  "2025-12-09": {
+    "libro": "1 Samuel",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-1"
+  },
+  "2025-12-10": {
+    "libro": "1 Samuel",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-2"
+  },
+  "2025-12-11": {
+    "libro": "1 Samuel",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-3"
+  },
+  "2025-12-12": {
+    "libro": "1 Samuel",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-4"
+  },
+  "2025-12-13": {
+    "libro": "1 Samuel",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-5"
+  },
+  "2025-12-14": {
+    "libro": "1 Samuel",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-6"
+  },
+  "2025-12-15": {
+    "libro": "1 Samuel",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-7"
+  },
+  "2025-12-16": {
+    "libro": "1 Samuel",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-8"
+  },
+  "2025-12-17": {
+    "libro": "1 Samuel",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-9"
+  },
+  "2025-12-18": {
+    "libro": "1 Samuel",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-10"
+  },
+  "2025-12-19": {
+    "libro": "1 Samuel",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-11"
+  },
+  "2025-12-20": {
+    "libro": "1 Samuel",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-12"
+  },
+  "2025-12-21": {
+    "libro": "1 Samuel",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-13"
+  },
+  "2025-12-22": {
+    "libro": "1 Samuel",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-14"
+  },
+  "2025-12-23": {
+    "libro": "1 Samuel",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-15"
+  },
+  "2025-12-24": {
+    "libro": "1 Samuel",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-16"
+  },
+  "2025-12-25": {
+    "libro": "1 Samuel",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-17"
+  },
+  "2025-12-26": {
+    "libro": "1 Samuel",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-18"
+  },
+  "2025-12-27": {
+    "libro": "1 Samuel",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-19"
+  },
+  "2025-12-28": {
+    "libro": "1 Samuel",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-20"
+  },
+  "2025-12-29": {
+    "libro": "1 Samuel",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-21"
+  },
+  "2025-12-30": {
+    "libro": "1 Samuel",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-22"
+  },
+  "2025-12-31": {
+    "libro": "1 Samuel",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-23"
+  },
+  "2026-01-01": {
+    "libro": "1 Samuel",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-24"
+  },
+  "2026-01-02": {
+    "libro": "1 Samuel",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-25"
+  },
+  "2026-01-03": {
+    "libro": "1 Samuel",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-26"
+  },
+  "2026-01-04": {
+    "libro": "1 Samuel",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-27"
+  },
+  "2026-01-05": {
+    "libro": "1 Samuel",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-28"
+  },
+  "2026-01-06": {
+    "libro": "1 Samuel",
+    "capitulo": 29,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-29"
+  },
+  "2026-01-07": {
+    "libro": "1 Samuel",
+    "capitulo": 30,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-30"
+  },
+  "2026-01-08": {
+    "libro": "1 Samuel",
+    "capitulo": 31,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-samuel.html#capitulo-31"
+  },
+  "2026-01-09": {
+    "libro": "2 Samuel",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-1"
+  },
+  "2026-01-10": {
+    "libro": "2 Samuel",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-2"
+  },
+  "2026-01-11": {
+    "libro": "2 Samuel",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-3"
+  },
+  "2026-01-12": {
+    "libro": "2 Samuel",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-4"
+  },
+  "2026-01-13": {
+    "libro": "2 Samuel",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-5"
+  },
+  "2026-01-14": {
+    "libro": "2 Samuel",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-6"
+  },
+  "2026-01-15": {
+    "libro": "2 Samuel",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-7"
+  },
+  "2026-01-16": {
+    "libro": "2 Samuel",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-8"
+  },
+  "2026-01-17": {
+    "libro": "2 Samuel",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-9"
+  },
+  "2026-01-18": {
+    "libro": "2 Samuel",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-10"
+  },
+  "2026-01-19": {
+    "libro": "2 Samuel",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-11"
+  },
+  "2026-01-20": {
+    "libro": "2 Samuel",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-12"
+  },
+  "2026-01-21": {
+    "libro": "2 Samuel",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-13"
+  },
+  "2026-01-22": {
+    "libro": "2 Samuel",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-14"
+  },
+  "2026-01-23": {
+    "libro": "2 Samuel",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-15"
+  },
+  "2026-01-24": {
+    "libro": "2 Samuel",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-16"
+  },
+  "2026-01-25": {
+    "libro": "2 Samuel",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-17"
+  },
+  "2026-01-26": {
+    "libro": "2 Samuel",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-18"
+  },
+  "2026-01-27": {
+    "libro": "2 Samuel",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-19"
+  },
+  "2026-01-28": {
+    "libro": "2 Samuel",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-20"
+  },
+  "2026-01-29": {
+    "libro": "2 Samuel",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-21"
+  },
+  "2026-01-30": {
+    "libro": "2 Samuel",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-22"
+  },
+  "2026-01-31": {
+    "libro": "2 Samuel",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-23"
+  },
+  "2026-02-01": {
+    "libro": "2 Samuel",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-samuel.html#capitulo-24"
+  },
+  "2026-02-02": {
+    "libro": "1 Reyes",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-1"
+  },
+  "2026-02-03": {
+    "libro": "1 Reyes",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-2"
+  },
+  "2026-02-04": {
+    "libro": "1 Reyes",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-3"
+  },
+  "2026-02-05": {
+    "libro": "1 Reyes",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-4"
+  },
+  "2026-02-06": {
+    "libro": "1 Reyes",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-5"
+  },
+  "2026-02-07": {
+    "libro": "1 Reyes",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-6"
+  },
+  "2026-02-08": {
+    "libro": "1 Reyes",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-7"
+  },
+  "2026-02-09": {
+    "libro": "1 Reyes",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-8"
+  },
+  "2026-02-10": {
+    "libro": "1 Reyes",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-9"
+  },
+  "2026-02-11": {
+    "libro": "1 Reyes",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-10"
+  },
+  "2026-02-12": {
+    "libro": "1 Reyes",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-11"
+  },
+  "2026-02-13": {
+    "libro": "1 Reyes",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-12"
+  },
+  "2026-02-14": {
+    "libro": "1 Reyes",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-13"
+  },
+  "2026-02-15": {
+    "libro": "1 Reyes",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-14"
+  },
+  "2026-02-16": {
+    "libro": "1 Reyes",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-15"
+  },
+  "2026-02-17": {
+    "libro": "1 Reyes",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-16"
+  },
+  "2026-02-18": {
+    "libro": "1 Reyes",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-17"
+  },
+  "2026-02-19": {
+    "libro": "1 Reyes",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-18"
+  },
+  "2026-02-20": {
+    "libro": "1 Reyes",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-19"
+  },
+  "2026-02-21": {
+    "libro": "1 Reyes",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-20"
+  },
+  "2026-02-22": {
+    "libro": "1 Reyes",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-21"
+  },
+  "2026-02-23": {
+    "libro": "1 Reyes",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-reyes.html#capitulo-22"
+  },
+  "2026-02-24": {
+    "libro": "2 Reyes",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-1"
+  },
+  "2026-02-25": {
+    "libro": "2 Reyes",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-2"
+  },
+  "2026-02-26": {
+    "libro": "2 Reyes",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-3"
+  },
+  "2026-02-27": {
+    "libro": "2 Reyes",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-4"
+  },
+  "2026-02-28": {
+    "libro": "2 Reyes",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-5"
+  },
+  "2026-03-01": {
+    "libro": "2 Reyes",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-6"
+  },
+  "2026-03-02": {
+    "libro": "2 Reyes",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-7"
+  },
+  "2026-03-03": {
+    "libro": "2 Reyes",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-8"
+  },
+  "2026-03-04": {
+    "libro": "2 Reyes",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-9"
+  },
+  "2026-03-05": {
+    "libro": "2 Reyes",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-10"
+  },
+  "2026-03-06": {
+    "libro": "2 Reyes",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-11"
+  },
+  "2026-03-07": {
+    "libro": "2 Reyes",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-12"
+  },
+  "2026-03-08": {
+    "libro": "2 Reyes",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-13"
+  },
+  "2026-03-09": {
+    "libro": "2 Reyes",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-14"
+  },
+  "2026-03-10": {
+    "libro": "2 Reyes",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-15"
+  },
+  "2026-03-11": {
+    "libro": "2 Reyes",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-16"
+  },
+  "2026-03-12": {
+    "libro": "2 Reyes",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-17"
+  },
+  "2026-03-13": {
+    "libro": "2 Reyes",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-18"
+  },
+  "2026-03-14": {
+    "libro": "2 Reyes",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-19"
+  },
+  "2026-03-15": {
+    "libro": "2 Reyes",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-20"
+  },
+  "2026-03-16": {
+    "libro": "2 Reyes",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-21"
+  },
+  "2026-03-17": {
+    "libro": "2 Reyes",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-22"
+  },
+  "2026-03-18": {
+    "libro": "2 Reyes",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-23"
+  },
+  "2026-03-19": {
+    "libro": "2 Reyes",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-24"
+  },
+  "2026-03-20": {
+    "libro": "2 Reyes",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-reyes.html#capitulo-25"
+  },
+  "2026-03-21": {
+    "libro": "1 Crónicas",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-1"
+  },
+  "2026-03-22": {
+    "libro": "1 Crónicas",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-2"
+  },
+  "2026-03-23": {
+    "libro": "1 Crónicas",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-3"
+  },
+  "2026-03-24": {
+    "libro": "1 Crónicas",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-4"
+  },
+  "2026-03-25": {
+    "libro": "1 Crónicas",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-5"
+  },
+  "2026-03-26": {
+    "libro": "1 Crónicas",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-6"
+  },
+  "2026-03-27": {
+    "libro": "1 Crónicas",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-7"
+  },
+  "2026-03-28": {
+    "libro": "1 Crónicas",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-8"
+  },
+  "2026-03-29": {
+    "libro": "1 Crónicas",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-9"
+  },
+  "2026-03-30": {
+    "libro": "1 Crónicas",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-10"
+  },
+  "2026-03-31": {
+    "libro": "1 Crónicas",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-11"
+  },
+  "2026-04-01": {
+    "libro": "1 Crónicas",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-12"
+  },
+  "2026-04-02": {
+    "libro": "1 Crónicas",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-13"
+  },
+  "2026-04-03": {
+    "libro": "1 Crónicas",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-14"
+  },
+  "2026-04-04": {
+    "libro": "1 Crónicas",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-15"
+  },
+  "2026-04-05": {
+    "libro": "1 Crónicas",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-16"
+  },
+  "2026-04-06": {
+    "libro": "1 Crónicas",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-17"
+  },
+  "2026-04-07": {
+    "libro": "1 Crónicas",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-18"
+  },
+  "2026-04-08": {
+    "libro": "1 Crónicas",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-19"
+  },
+  "2026-04-09": {
+    "libro": "1 Crónicas",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-20"
+  },
+  "2026-04-10": {
+    "libro": "1 Crónicas",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-21"
+  },
+  "2026-04-11": {
+    "libro": "1 Crónicas",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-22"
+  },
+  "2026-04-12": {
+    "libro": "1 Crónicas",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-23"
+  },
+  "2026-04-13": {
+    "libro": "1 Crónicas",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-24"
+  },
+  "2026-04-14": {
+    "libro": "1 Crónicas",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-25"
+  },
+  "2026-04-15": {
+    "libro": "1 Crónicas",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-26"
+  },
+  "2026-04-16": {
+    "libro": "1 Crónicas",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-27"
+  },
+  "2026-04-17": {
+    "libro": "1 Crónicas",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-28"
+  },
+  "2026-04-18": {
+    "libro": "1 Crónicas",
+    "capitulo": 29,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-cronicas.html#capitulo-29"
+  },
+  "2026-04-19": {
+    "libro": "2 Crónicas",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-1"
+  },
+  "2026-04-20": {
+    "libro": "2 Crónicas",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-2"
+  },
+  "2026-04-21": {
+    "libro": "2 Crónicas",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-3"
+  },
+  "2026-04-22": {
+    "libro": "2 Crónicas",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-4"
+  },
+  "2026-04-23": {
+    "libro": "2 Crónicas",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-5"
+  },
+  "2026-04-24": {
+    "libro": "2 Crónicas",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-6"
+  },
+  "2026-04-25": {
+    "libro": "2 Crónicas",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-7"
+  },
+  "2026-04-26": {
+    "libro": "2 Crónicas",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-8"
+  },
+  "2026-04-27": {
+    "libro": "2 Crónicas",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-9"
+  },
+  "2026-04-28": {
+    "libro": "2 Crónicas",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-10"
+  },
+  "2026-04-29": {
+    "libro": "2 Crónicas",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-11"
+  },
+  "2026-04-30": {
+    "libro": "2 Crónicas",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-12"
+  },
+  "2026-05-01": {
+    "libro": "2 Crónicas",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-13"
+  },
+  "2026-05-02": {
+    "libro": "2 Crónicas",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-14"
+  },
+  "2026-05-03": {
+    "libro": "2 Crónicas",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-15"
+  },
+  "2026-05-04": {
+    "libro": "2 Crónicas",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-16"
+  },
+  "2026-05-05": {
+    "libro": "2 Crónicas",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-17"
+  },
+  "2026-05-06": {
+    "libro": "2 Crónicas",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-18"
+  },
+  "2026-05-07": {
+    "libro": "2 Crónicas",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-19"
+  },
+  "2026-05-08": {
+    "libro": "2 Crónicas",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-20"
+  },
+  "2026-05-09": {
+    "libro": "2 Crónicas",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-21"
+  },
+  "2026-05-10": {
+    "libro": "2 Crónicas",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-22"
+  },
+  "2026-05-11": {
+    "libro": "2 Crónicas",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-23"
+  },
+  "2026-05-12": {
+    "libro": "2 Crónicas",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-24"
+  },
+  "2026-05-13": {
+    "libro": "2 Crónicas",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-25"
+  },
+  "2026-05-14": {
+    "libro": "2 Crónicas",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-26"
+  },
+  "2026-05-15": {
+    "libro": "2 Crónicas",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-27"
+  },
+  "2026-05-16": {
+    "libro": "2 Crónicas",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-28"
+  },
+  "2026-05-17": {
+    "libro": "2 Crónicas",
+    "capitulo": 29,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-29"
+  },
+  "2026-05-18": {
+    "libro": "2 Crónicas",
+    "capitulo": 30,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-30"
+  },
+  "2026-05-19": {
+    "libro": "2 Crónicas",
+    "capitulo": 31,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-31"
+  },
+  "2026-05-20": {
+    "libro": "2 Crónicas",
+    "capitulo": 32,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-32"
+  },
+  "2026-05-21": {
+    "libro": "2 Crónicas",
+    "capitulo": 33,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-33"
+  },
+  "2026-05-22": {
+    "libro": "2 Crónicas",
+    "capitulo": 34,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-34"
+  },
+  "2026-05-23": {
+    "libro": "2 Crónicas",
+    "capitulo": 35,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-35"
+  },
+  "2026-05-24": {
+    "libro": "2 Crónicas",
+    "capitulo": 36,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-cronicas.html#capitulo-36"
+  },
+  "2026-05-25": {
+    "libro": "Esdras",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-1"
+  },
+  "2026-05-26": {
+    "libro": "Esdras",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-2"
+  },
+  "2026-05-27": {
+    "libro": "Esdras",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-3"
+  },
+  "2026-05-28": {
+    "libro": "Esdras",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-4"
+  },
+  "2026-05-29": {
+    "libro": "Esdras",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-5"
+  },
+  "2026-05-30": {
+    "libro": "Esdras",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-6"
+  },
+  "2026-05-31": {
+    "libro": "Esdras",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-7"
+  },
+  "2026-06-01": {
+    "libro": "Esdras",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-8"
+  },
+  "2026-06-02": {
+    "libro": "Esdras",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-9"
+  },
+  "2026-06-03": {
+    "libro": "Esdras",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-esdras.html#capitulo-10"
+  },
+  "2026-06-04": {
+    "libro": "Nehemías",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-1"
+  },
+  "2026-06-05": {
+    "libro": "Nehemías",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-2"
+  },
+  "2026-06-06": {
+    "libro": "Nehemías",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-3"
+  },
+  "2026-06-07": {
+    "libro": "Nehemías",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-4"
+  },
+  "2026-06-08": {
+    "libro": "Nehemías",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-5"
+  },
+  "2026-06-09": {
+    "libro": "Nehemías",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-6"
+  },
+  "2026-06-10": {
+    "libro": "Nehemías",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-7"
+  },
+  "2026-06-11": {
+    "libro": "Nehemías",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-8"
+  },
+  "2026-06-12": {
+    "libro": "Nehemías",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-9"
+  },
+  "2026-06-13": {
+    "libro": "Nehemías",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-10"
+  },
+  "2026-06-14": {
+    "libro": "Nehemías",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-11"
+  },
+  "2026-06-15": {
+    "libro": "Nehemías",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-12"
+  },
+  "2026-06-16": {
+    "libro": "Nehemías",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nehemias.html#capitulo-13"
+  },
+  "2026-06-17": {
+    "libro": "Ester",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-1"
+  },
+  "2026-06-18": {
+    "libro": "Ester",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-2"
+  },
+  "2026-06-19": {
+    "libro": "Ester",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-3"
+  },
+  "2026-06-20": {
+    "libro": "Ester",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-4"
+  },
+  "2026-06-21": {
+    "libro": "Ester",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-5"
+  },
+  "2026-06-22": {
+    "libro": "Ester",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-6"
+  },
+  "2026-06-23": {
+    "libro": "Ester",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-7"
+  },
+  "2026-06-24": {
+    "libro": "Ester",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-8"
+  },
+  "2026-06-25": {
+    "libro": "Ester",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-9"
+  },
+  "2026-06-26": {
+    "libro": "Ester",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ester.html#capitulo-10"
+  },
+  "2026-06-27": {
+    "libro": "Job",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-1"
+  },
+  "2026-06-28": {
+    "libro": "Job",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-2"
+  },
+  "2026-06-29": {
+    "libro": "Job",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-3"
+  },
+  "2026-06-30": {
+    "libro": "Job",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-4"
+  },
+  "2026-07-01": {
+    "libro": "Job",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-5"
+  },
+  "2026-07-02": {
+    "libro": "Job",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-6"
+  },
+  "2026-07-03": {
+    "libro": "Job",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-7"
+  },
+  "2026-07-04": {
+    "libro": "Job",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-8"
+  },
+  "2026-07-05": {
+    "libro": "Job",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-9"
+  },
+  "2026-07-06": {
+    "libro": "Job",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-10"
+  },
+  "2026-07-07": {
+    "libro": "Job",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-11"
+  },
+  "2026-07-08": {
+    "libro": "Job",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-12"
+  },
+  "2026-07-09": {
+    "libro": "Job",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-13"
+  },
+  "2026-07-10": {
+    "libro": "Job",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-14"
+  },
+  "2026-07-11": {
+    "libro": "Job",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-15"
+  },
+  "2026-07-12": {
+    "libro": "Job",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-16"
+  },
+  "2026-07-13": {
+    "libro": "Job",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-17"
+  },
+  "2026-07-14": {
+    "libro": "Job",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-18"
+  },
+  "2026-07-15": {
+    "libro": "Job",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-19"
+  },
+  "2026-07-16": {
+    "libro": "Job",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-20"
+  },
+  "2026-07-17": {
+    "libro": "Job",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-21"
+  },
+  "2026-07-18": {
+    "libro": "Job",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-22"
+  },
+  "2026-07-19": {
+    "libro": "Job",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-23"
+  },
+  "2026-07-20": {
+    "libro": "Job",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-24"
+  },
+  "2026-07-21": {
+    "libro": "Job",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-25"
+  },
+  "2026-07-22": {
+    "libro": "Job",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-26"
+  },
+  "2026-07-23": {
+    "libro": "Job",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-27"
+  },
+  "2026-07-24": {
+    "libro": "Job",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-28"
+  },
+  "2026-07-25": {
+    "libro": "Job",
+    "capitulo": 29,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-29"
+  },
+  "2026-07-26": {
+    "libro": "Job",
+    "capitulo": 30,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-30"
+  },
+  "2026-07-27": {
+    "libro": "Job",
+    "capitulo": 31,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-31"
+  },
+  "2026-07-28": {
+    "libro": "Job",
+    "capitulo": 32,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-32"
+  },
+  "2026-07-29": {
+    "libro": "Job",
+    "capitulo": 33,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-33"
+  },
+  "2026-07-30": {
+    "libro": "Job",
+    "capitulo": 34,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-34"
+  },
+  "2026-07-31": {
+    "libro": "Job",
+    "capitulo": 35,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-35"
+  },
+  "2026-08-01": {
+    "libro": "Job",
+    "capitulo": 36,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-36"
+  },
+  "2026-08-02": {
+    "libro": "Job",
+    "capitulo": 37,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-37"
+  },
+  "2026-08-03": {
+    "libro": "Job",
+    "capitulo": 38,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-38"
+  },
+  "2026-08-04": {
+    "libro": "Job",
+    "capitulo": 39,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-39"
+  },
+  "2026-08-05": {
+    "libro": "Job",
+    "capitulo": 40,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-40"
+  },
+  "2026-08-06": {
+    "libro": "Job",
+    "capitulo": 41,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-41"
+  },
+  "2026-08-07": {
+    "libro": "Job",
+    "capitulo": 42,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-job.html#capitulo-42"
+  },
+  "2026-08-08": {
+    "libro": "Salmos",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-1"
+  },
+  "2026-08-09": {
+    "libro": "Salmos",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-2"
+  },
+  "2026-08-10": {
+    "libro": "Salmos",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-3"
+  },
+  "2026-08-11": {
+    "libro": "Salmos",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-4"
+  },
+  "2026-08-12": {
+    "libro": "Salmos",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-5"
+  },
+  "2026-08-13": {
+    "libro": "Salmos",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-6"
+  },
+  "2026-08-14": {
+    "libro": "Salmos",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-7"
+  },
+  "2026-08-15": {
+    "libro": "Salmos",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-8"
+  },
+  "2026-08-16": {
+    "libro": "Salmos",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-9"
+  },
+  "2026-08-17": {
+    "libro": "Salmos",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-10"
+  },
+  "2026-08-18": {
+    "libro": "Salmos",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-11"
+  },
+  "2026-08-19": {
+    "libro": "Salmos",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-12"
+  },
+  "2026-08-20": {
+    "libro": "Salmos",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-13"
+  },
+  "2026-08-21": {
+    "libro": "Salmos",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-14"
+  },
+  "2026-08-22": {
+    "libro": "Salmos",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-15"
+  },
+  "2026-08-23": {
+    "libro": "Salmos",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-16"
+  },
+  "2026-08-24": {
+    "libro": "Salmos",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-17"
+  },
+  "2026-08-25": {
+    "libro": "Salmos",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-18"
+  },
+  "2026-08-26": {
+    "libro": "Salmos",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-19"
+  },
+  "2026-08-27": {
+    "libro": "Salmos",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-20"
+  },
+  "2026-08-28": {
+    "libro": "Salmos",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-21"
+  },
+  "2026-08-29": {
+    "libro": "Salmos",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-22"
+  },
+  "2026-08-30": {
+    "libro": "Salmos",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-23"
+  },
+  "2026-08-31": {
+    "libro": "Salmos",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-24"
+  },
+  "2026-09-01": {
+    "libro": "Salmos",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-25"
+  },
+  "2026-09-02": {
+    "libro": "Salmos",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-26"
+  },
+  "2026-09-03": {
+    "libro": "Salmos",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-27"
+  },
+  "2026-09-04": {
+    "libro": "Salmos",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-28"
+  },
+  "2026-09-05": {
+    "libro": "Salmos",
+    "capitulo": 29,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-29"
+  },
+  "2026-09-06": {
+    "libro": "Salmos",
+    "capitulo": 30,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-30"
+  },
+  "2026-09-07": {
+    "libro": "Salmos",
+    "capitulo": 31,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-31"
+  },
+  "2026-09-08": {
+    "libro": "Salmos",
+    "capitulo": 32,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-32"
+  },
+  "2026-09-09": {
+    "libro": "Salmos",
+    "capitulo": 33,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-33"
+  },
+  "2026-09-10": {
+    "libro": "Salmos",
+    "capitulo": 34,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-34"
+  },
+  "2026-09-11": {
+    "libro": "Salmos",
+    "capitulo": 35,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-35"
+  },
+  "2026-09-12": {
+    "libro": "Salmos",
+    "capitulo": 36,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-36"
+  },
+  "2026-09-13": {
+    "libro": "Salmos",
+    "capitulo": 37,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-37"
+  },
+  "2026-09-14": {
+    "libro": "Salmos",
+    "capitulo": 38,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-38"
+  },
+  "2026-09-15": {
+    "libro": "Salmos",
+    "capitulo": 39,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-39"
+  },
+  "2026-09-16": {
+    "libro": "Salmos",
+    "capitulo": 40,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-40"
+  },
+  "2026-09-17": {
+    "libro": "Salmos",
+    "capitulo": 41,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-41"
+  },
+  "2026-09-18": {
+    "libro": "Salmos",
+    "capitulo": 42,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-42"
+  },
+  "2026-09-19": {
+    "libro": "Salmos",
+    "capitulo": 43,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-43"
+  },
+  "2026-09-20": {
+    "libro": "Salmos",
+    "capitulo": 44,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-44"
+  },
+  "2026-09-21": {
+    "libro": "Salmos",
+    "capitulo": 45,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-45"
+  },
+  "2026-09-22": {
+    "libro": "Salmos",
+    "capitulo": 46,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-46"
+  },
+  "2026-09-23": {
+    "libro": "Salmos",
+    "capitulo": 47,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-47"
+  },
+  "2026-09-24": {
+    "libro": "Salmos",
+    "capitulo": 48,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-48"
+  },
+  "2026-09-25": {
+    "libro": "Salmos",
+    "capitulo": 49,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-49"
+  },
+  "2026-09-26": {
+    "libro": "Salmos",
+    "capitulo": 50,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-50"
+  },
+  "2026-09-27": {
+    "libro": "Salmos",
+    "capitulo": 51,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-51"
+  },
+  "2026-09-28": {
+    "libro": "Salmos",
+    "capitulo": 52,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-52"
+  },
+  "2026-09-29": {
+    "libro": "Salmos",
+    "capitulo": 53,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-53"
+  },
+  "2026-09-30": {
+    "libro": "Salmos",
+    "capitulo": 54,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-54"
+  },
+  "2026-10-01": {
+    "libro": "Salmos",
+    "capitulo": 55,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-55"
+  },
+  "2026-10-02": {
+    "libro": "Salmos",
+    "capitulo": 56,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-56"
+  },
+  "2026-10-03": {
+    "libro": "Salmos",
+    "capitulo": 57,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-57"
+  },
+  "2026-10-04": {
+    "libro": "Salmos",
+    "capitulo": 58,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-58"
+  },
+  "2026-10-05": {
+    "libro": "Salmos",
+    "capitulo": 59,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-59"
+  },
+  "2026-10-06": {
+    "libro": "Salmos",
+    "capitulo": 60,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-60"
+  },
+  "2026-10-07": {
+    "libro": "Salmos",
+    "capitulo": 61,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-61"
+  },
+  "2026-10-08": {
+    "libro": "Salmos",
+    "capitulo": 62,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-62"
+  },
+  "2026-10-09": {
+    "libro": "Salmos",
+    "capitulo": 63,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-63"
+  },
+  "2026-10-10": {
+    "libro": "Salmos",
+    "capitulo": 64,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-64"
+  },
+  "2026-10-11": {
+    "libro": "Salmos",
+    "capitulo": 65,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-65"
+  },
+  "2026-10-12": {
+    "libro": "Salmos",
+    "capitulo": 66,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-66"
+  },
+  "2026-10-13": {
+    "libro": "Salmos",
+    "capitulo": 67,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-67"
+  },
+  "2026-10-14": {
+    "libro": "Salmos",
+    "capitulo": 68,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-68"
+  },
+  "2026-10-15": {
+    "libro": "Salmos",
+    "capitulo": 69,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-69"
+  },
+  "2026-10-16": {
+    "libro": "Salmos",
+    "capitulo": 70,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-70"
+  },
+  "2026-10-17": {
+    "libro": "Salmos",
+    "capitulo": 71,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-71"
+  },
+  "2026-10-18": {
+    "libro": "Salmos",
+    "capitulo": 72,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-72"
+  },
+  "2026-10-19": {
+    "libro": "Salmos",
+    "capitulo": 73,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-73"
+  },
+  "2026-10-20": {
+    "libro": "Salmos",
+    "capitulo": 74,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-74"
+  },
+  "2026-10-21": {
+    "libro": "Salmos",
+    "capitulo": 75,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-75"
+  },
+  "2026-10-22": {
+    "libro": "Salmos",
+    "capitulo": 76,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-76"
+  },
+  "2026-10-23": {
+    "libro": "Salmos",
+    "capitulo": 77,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-77"
+  },
+  "2026-10-24": {
+    "libro": "Salmos",
+    "capitulo": 78,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-78"
+  },
+  "2026-10-25": {
+    "libro": "Salmos",
+    "capitulo": 79,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-79"
+  },
+  "2026-10-26": {
+    "libro": "Salmos",
+    "capitulo": 80,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-80"
+  },
+  "2026-10-27": {
+    "libro": "Salmos",
+    "capitulo": 81,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-81"
+  },
+  "2026-10-28": {
+    "libro": "Salmos",
+    "capitulo": 82,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-82"
+  },
+  "2026-10-29": {
+    "libro": "Salmos",
+    "capitulo": 83,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-83"
+  },
+  "2026-10-30": {
+    "libro": "Salmos",
+    "capitulo": 84,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-84"
+  },
+  "2026-10-31": {
+    "libro": "Salmos",
+    "capitulo": 85,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-85"
+  },
+  "2026-11-01": {
+    "libro": "Salmos",
+    "capitulo": 86,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-86"
+  },
+  "2026-11-02": {
+    "libro": "Salmos",
+    "capitulo": 87,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-87"
+  },
+  "2026-11-03": {
+    "libro": "Salmos",
+    "capitulo": 88,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-88"
+  },
+  "2026-11-04": {
+    "libro": "Salmos",
+    "capitulo": 89,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-89"
+  },
+  "2026-11-05": {
+    "libro": "Salmos",
+    "capitulo": 90,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-90"
+  },
+  "2026-11-06": {
+    "libro": "Salmos",
+    "capitulo": 91,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-91"
+  },
+  "2026-11-07": {
+    "libro": "Salmos",
+    "capitulo": 92,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-92"
+  },
+  "2026-11-08": {
+    "libro": "Salmos",
+    "capitulo": 93,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-93"
+  },
+  "2026-11-09": {
+    "libro": "Salmos",
+    "capitulo": 94,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-94"
+  },
+  "2026-11-10": {
+    "libro": "Salmos",
+    "capitulo": 95,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-95"
+  },
+  "2026-11-11": {
+    "libro": "Salmos",
+    "capitulo": 96,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-96"
+  },
+  "2026-11-12": {
+    "libro": "Salmos",
+    "capitulo": 97,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-97"
+  },
+  "2026-11-13": {
+    "libro": "Salmos",
+    "capitulo": 98,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-98"
+  },
+  "2026-11-14": {
+    "libro": "Salmos",
+    "capitulo": 99,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-99"
+  },
+  "2026-11-15": {
+    "libro": "Salmos",
+    "capitulo": 100,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-100"
+  },
+  "2026-11-16": {
+    "libro": "Salmos",
+    "capitulo": 101,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-101"
+  },
+  "2026-11-17": {
+    "libro": "Salmos",
+    "capitulo": 102,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-102"
+  },
+  "2026-11-18": {
+    "libro": "Salmos",
+    "capitulo": 103,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-103"
+  },
+  "2026-11-19": {
+    "libro": "Salmos",
+    "capitulo": 104,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-104"
+  },
+  "2026-11-20": {
+    "libro": "Salmos",
+    "capitulo": 105,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-105"
+  },
+  "2026-11-21": {
+    "libro": "Salmos",
+    "capitulo": 106,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-106"
+  },
+  "2026-11-22": {
+    "libro": "Salmos",
+    "capitulo": 107,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-107"
+  },
+  "2026-11-23": {
+    "libro": "Salmos",
+    "capitulo": 108,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-108"
+  },
+  "2026-11-24": {
+    "libro": "Salmos",
+    "capitulo": 109,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-109"
+  },
+  "2026-11-25": {
+    "libro": "Salmos",
+    "capitulo": 110,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-110"
+  },
+  "2026-11-26": {
+    "libro": "Salmos",
+    "capitulo": 111,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-111"
+  },
+  "2026-11-27": {
+    "libro": "Salmos",
+    "capitulo": 112,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-112"
+  },
+  "2026-11-28": {
+    "libro": "Salmos",
+    "capitulo": 113,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-113"
+  },
+  "2026-11-29": {
+    "libro": "Salmos",
+    "capitulo": 114,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-114"
+  },
+  "2026-11-30": {
+    "libro": "Salmos",
+    "capitulo": 115,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-115"
+  },
+  "2026-12-01": {
+    "libro": "Salmos",
+    "capitulo": 116,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-116"
+  },
+  "2026-12-02": {
+    "libro": "Salmos",
+    "capitulo": 117,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-117"
+  },
+  "2026-12-03": {
+    "libro": "Salmos",
+    "capitulo": 118,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-118"
+  },
+  "2026-12-04": {
+    "libro": "Salmos",
+    "capitulo": 119,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-119"
+  },
+  "2026-12-05": {
+    "libro": "Salmos",
+    "capitulo": 120,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-120"
+  },
+  "2026-12-06": {
+    "libro": "Salmos",
+    "capitulo": 121,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-121"
+  },
+  "2026-12-07": {
+    "libro": "Salmos",
+    "capitulo": 122,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-122"
+  },
+  "2026-12-08": {
+    "libro": "Salmos",
+    "capitulo": 123,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-123"
+  },
+  "2026-12-09": {
+    "libro": "Salmos",
+    "capitulo": 124,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-124"
+  },
+  "2026-12-10": {
+    "libro": "Salmos",
+    "capitulo": 125,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-125"
+  },
+  "2026-12-11": {
+    "libro": "Salmos",
+    "capitulo": 126,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-126"
+  },
+  "2026-12-12": {
+    "libro": "Salmos",
+    "capitulo": 127,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-127"
+  },
+  "2026-12-13": {
+    "libro": "Salmos",
+    "capitulo": 128,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-128"
+  },
+  "2026-12-14": {
+    "libro": "Salmos",
+    "capitulo": 129,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-129"
+  },
+  "2026-12-15": {
+    "libro": "Salmos",
+    "capitulo": 130,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-130"
+  },
+  "2026-12-16": {
+    "libro": "Salmos",
+    "capitulo": 131,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-131"
+  },
+  "2026-12-17": {
+    "libro": "Salmos",
+    "capitulo": 132,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-132"
+  },
+  "2026-12-18": {
+    "libro": "Salmos",
+    "capitulo": 133,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-133"
+  },
+  "2026-12-19": {
+    "libro": "Salmos",
+    "capitulo": 134,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-134"
+  },
+  "2026-12-20": {
+    "libro": "Salmos",
+    "capitulo": 135,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-135"
+  },
+  "2026-12-21": {
+    "libro": "Salmos",
+    "capitulo": 136,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-136"
+  },
+  "2026-12-22": {
+    "libro": "Salmos",
+    "capitulo": 137,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-137"
+  },
+  "2026-12-23": {
+    "libro": "Salmos",
+    "capitulo": 138,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-138"
+  },
+  "2026-12-24": {
+    "libro": "Salmos",
+    "capitulo": 139,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-139"
+  },
+  "2026-12-25": {
+    "libro": "Salmos",
+    "capitulo": 140,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-140"
+  },
+  "2026-12-26": {
+    "libro": "Salmos",
+    "capitulo": 141,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-141"
+  },
+  "2026-12-27": {
+    "libro": "Salmos",
+    "capitulo": 142,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-142"
+  },
+  "2026-12-28": {
+    "libro": "Salmos",
+    "capitulo": 143,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-143"
+  },
+  "2026-12-29": {
+    "libro": "Salmos",
+    "capitulo": 144,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-144"
+  },
+  "2026-12-30": {
+    "libro": "Salmos",
+    "capitulo": 145,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-145"
+  },
+  "2026-12-31": {
+    "libro": "Salmos",
+    "capitulo": 146,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-146"
+  },
+  "2027-01-01": {
+    "libro": "Salmos",
+    "capitulo": 147,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-147"
+  },
+  "2027-01-02": {
+    "libro": "Salmos",
+    "capitulo": 148,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-148"
+  },
+  "2027-01-03": {
+    "libro": "Salmos",
+    "capitulo": 149,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-149"
+  },
+  "2027-01-04": {
+    "libro": "Salmos",
+    "capitulo": 150,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-salmos.html#capitulo-150"
+  },
+  "2027-01-05": {
+    "libro": "Proverbios",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-1"
+  },
+  "2027-01-06": {
+    "libro": "Proverbios",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-2"
+  },
+  "2027-01-07": {
+    "libro": "Proverbios",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-3"
+  },
+  "2027-01-08": {
+    "libro": "Proverbios",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-4"
+  },
+  "2027-01-09": {
+    "libro": "Proverbios",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-5"
+  },
+  "2027-01-10": {
+    "libro": "Proverbios",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-6"
+  },
+  "2027-01-11": {
+    "libro": "Proverbios",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-7"
+  },
+  "2027-01-12": {
+    "libro": "Proverbios",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-8"
+  },
+  "2027-01-13": {
+    "libro": "Proverbios",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-9"
+  },
+  "2027-01-14": {
+    "libro": "Proverbios",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-10"
+  },
+  "2027-01-15": {
+    "libro": "Proverbios",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-11"
+  },
+  "2027-01-16": {
+    "libro": "Proverbios",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-12"
+  },
+  "2027-01-17": {
+    "libro": "Proverbios",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-13"
+  },
+  "2027-01-18": {
+    "libro": "Proverbios",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-14"
+  },
+  "2027-01-19": {
+    "libro": "Proverbios",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-15"
+  },
+  "2027-01-20": {
+    "libro": "Proverbios",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-16"
+  },
+  "2027-01-21": {
+    "libro": "Proverbios",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-17"
+  },
+  "2027-01-22": {
+    "libro": "Proverbios",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-18"
+  },
+  "2027-01-23": {
+    "libro": "Proverbios",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-19"
+  },
+  "2027-01-24": {
+    "libro": "Proverbios",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-20"
+  },
+  "2027-01-25": {
+    "libro": "Proverbios",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-21"
+  },
+  "2027-01-26": {
+    "libro": "Proverbios",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-22"
+  },
+  "2027-01-27": {
+    "libro": "Proverbios",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-23"
+  },
+  "2027-01-28": {
+    "libro": "Proverbios",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-24"
+  },
+  "2027-01-29": {
+    "libro": "Proverbios",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-25"
+  },
+  "2027-01-30": {
+    "libro": "Proverbios",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-26"
+  },
+  "2027-01-31": {
+    "libro": "Proverbios",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-27"
+  },
+  "2027-02-01": {
+    "libro": "Proverbios",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-28"
+  },
+  "2027-02-02": {
+    "libro": "Proverbios",
+    "capitulo": 29,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-29"
+  },
+  "2027-02-03": {
+    "libro": "Proverbios",
+    "capitulo": 30,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-30"
+  },
+  "2027-02-04": {
+    "libro": "Proverbios",
+    "capitulo": 31,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-proverbios.html#capitulo-31"
+  },
+  "2027-02-05": {
+    "libro": "Eclesiastés",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-1"
+  },
+  "2027-02-06": {
+    "libro": "Eclesiastés",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-2"
+  },
+  "2027-02-07": {
+    "libro": "Eclesiastés",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-3"
+  },
+  "2027-02-08": {
+    "libro": "Eclesiastés",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-4"
+  },
+  "2027-02-09": {
+    "libro": "Eclesiastés",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-5"
+  },
+  "2027-02-10": {
+    "libro": "Eclesiastés",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-6"
+  },
+  "2027-02-11": {
+    "libro": "Eclesiastés",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-7"
+  },
+  "2027-02-12": {
+    "libro": "Eclesiastés",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-8"
+  },
+  "2027-02-13": {
+    "libro": "Eclesiastés",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-9"
+  },
+  "2027-02-14": {
+    "libro": "Eclesiastés",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-10"
+  },
+  "2027-02-15": {
+    "libro": "Eclesiastés",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-11"
+  },
+  "2027-02-16": {
+    "libro": "Eclesiastés",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-eclesiastes.html#capitulo-12"
+  },
+  "2027-02-17": {
+    "libro": "Cantares",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-cantares.html#capitulo-1"
+  },
+  "2027-02-18": {
+    "libro": "Cantares",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-cantares.html#capitulo-2"
+  },
+  "2027-02-19": {
+    "libro": "Cantares",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-cantares.html#capitulo-3"
+  },
+  "2027-02-20": {
+    "libro": "Cantares",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-cantares.html#capitulo-4"
+  },
+  "2027-02-21": {
+    "libro": "Cantares",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-cantares.html#capitulo-5"
+  },
+  "2027-02-22": {
+    "libro": "Cantares",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-cantares.html#capitulo-6"
+  },
+  "2027-02-23": {
+    "libro": "Cantares",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-cantares.html#capitulo-7"
+  },
+  "2027-02-24": {
+    "libro": "Cantares",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-cantares.html#capitulo-8"
+  },
+  "2027-02-25": {
+    "libro": "Isaías",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-1"
+  },
+  "2027-02-26": {
+    "libro": "Isaías",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-2"
+  },
+  "2027-02-27": {
+    "libro": "Isaías",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-3"
+  },
+  "2027-02-28": {
+    "libro": "Isaías",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-4"
+  },
+  "2027-03-01": {
+    "libro": "Isaías",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-5"
+  },
+  "2027-03-02": {
+    "libro": "Isaías",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-6"
+  },
+  "2027-03-03": {
+    "libro": "Isaías",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-7"
+  },
+  "2027-03-04": {
+    "libro": "Isaías",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-8"
+  },
+  "2027-03-05": {
+    "libro": "Isaías",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-9"
+  },
+  "2027-03-06": {
+    "libro": "Isaías",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-10"
+  },
+  "2027-03-07": {
+    "libro": "Isaías",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-11"
+  },
+  "2027-03-08": {
+    "libro": "Isaías",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-12"
+  },
+  "2027-03-09": {
+    "libro": "Isaías",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-13"
+  },
+  "2027-03-10": {
+    "libro": "Isaías",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-14"
+  },
+  "2027-03-11": {
+    "libro": "Isaías",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-15"
+  },
+  "2027-03-12": {
+    "libro": "Isaías",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-16"
+  },
+  "2027-03-13": {
+    "libro": "Isaías",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-17"
+  },
+  "2027-03-14": {
+    "libro": "Isaías",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-18"
+  },
+  "2027-03-15": {
+    "libro": "Isaías",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-19"
+  },
+  "2027-03-16": {
+    "libro": "Isaías",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-20"
+  },
+  "2027-03-17": {
+    "libro": "Isaías",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-21"
+  },
+  "2027-03-18": {
+    "libro": "Isaías",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-22"
+  },
+  "2027-03-19": {
+    "libro": "Isaías",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-23"
+  },
+  "2027-03-20": {
+    "libro": "Isaías",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-24"
+  },
+  "2027-03-21": {
+    "libro": "Isaías",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-25"
+  },
+  "2027-03-22": {
+    "libro": "Isaías",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-26"
+  },
+  "2027-03-23": {
+    "libro": "Isaías",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-27"
+  },
+  "2027-03-24": {
+    "libro": "Isaías",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-28"
+  },
+  "2027-03-25": {
+    "libro": "Isaías",
+    "capitulo": 29,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-29"
+  },
+  "2027-03-26": {
+    "libro": "Isaías",
+    "capitulo": 30,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-30"
+  },
+  "2027-03-27": {
+    "libro": "Isaías",
+    "capitulo": 31,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-31"
+  },
+  "2027-03-28": {
+    "libro": "Isaías",
+    "capitulo": 32,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-32"
+  },
+  "2027-03-29": {
+    "libro": "Isaías",
+    "capitulo": 33,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-33"
+  },
+  "2027-03-30": {
+    "libro": "Isaías",
+    "capitulo": 34,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-34"
+  },
+  "2027-03-31": {
+    "libro": "Isaías",
+    "capitulo": 35,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-35"
+  },
+  "2027-04-01": {
+    "libro": "Isaías",
+    "capitulo": 36,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-36"
+  },
+  "2027-04-02": {
+    "libro": "Isaías",
+    "capitulo": 37,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-37"
+  },
+  "2027-04-03": {
+    "libro": "Isaías",
+    "capitulo": 38,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-38"
+  },
+  "2027-04-04": {
+    "libro": "Isaías",
+    "capitulo": 39,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-39"
+  },
+  "2027-04-05": {
+    "libro": "Isaías",
+    "capitulo": 40,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-40"
+  },
+  "2027-04-06": {
+    "libro": "Isaías",
+    "capitulo": 41,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-41"
+  },
+  "2027-04-07": {
+    "libro": "Isaías",
+    "capitulo": 42,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-42"
+  },
+  "2027-04-08": {
+    "libro": "Isaías",
+    "capitulo": 43,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-43"
+  },
+  "2027-04-09": {
+    "libro": "Isaías",
+    "capitulo": 44,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-44"
+  },
+  "2027-04-10": {
+    "libro": "Isaías",
+    "capitulo": 45,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-45"
+  },
+  "2027-04-11": {
+    "libro": "Isaías",
+    "capitulo": 46,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-46"
+  },
+  "2027-04-12": {
+    "libro": "Isaías",
+    "capitulo": 47,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-47"
+  },
+  "2027-04-13": {
+    "libro": "Isaías",
+    "capitulo": 48,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-48"
+  },
+  "2027-04-14": {
+    "libro": "Isaías",
+    "capitulo": 49,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-49"
+  },
+  "2027-04-15": {
+    "libro": "Isaías",
+    "capitulo": 50,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-50"
+  },
+  "2027-04-16": {
+    "libro": "Isaías",
+    "capitulo": 51,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-51"
+  },
+  "2027-04-17": {
+    "libro": "Isaías",
+    "capitulo": 52,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-52"
+  },
+  "2027-04-18": {
+    "libro": "Isaías",
+    "capitulo": 53,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-53"
+  },
+  "2027-04-19": {
+    "libro": "Isaías",
+    "capitulo": 54,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-54"
+  },
+  "2027-04-20": {
+    "libro": "Isaías",
+    "capitulo": 55,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-55"
+  },
+  "2027-04-21": {
+    "libro": "Isaías",
+    "capitulo": 56,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-56"
+  },
+  "2027-04-22": {
+    "libro": "Isaías",
+    "capitulo": 57,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-57"
+  },
+  "2027-04-23": {
+    "libro": "Isaías",
+    "capitulo": 58,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-58"
+  },
+  "2027-04-24": {
+    "libro": "Isaías",
+    "capitulo": 59,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-59"
+  },
+  "2027-04-25": {
+    "libro": "Isaías",
+    "capitulo": 60,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-60"
+  },
+  "2027-04-26": {
+    "libro": "Isaías",
+    "capitulo": 61,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-61"
+  },
+  "2027-04-27": {
+    "libro": "Isaías",
+    "capitulo": 62,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-62"
+  },
+  "2027-04-28": {
+    "libro": "Isaías",
+    "capitulo": 63,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-63"
+  },
+  "2027-04-29": {
+    "libro": "Isaías",
+    "capitulo": 64,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-64"
+  },
+  "2027-04-30": {
+    "libro": "Isaías",
+    "capitulo": 65,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-65"
+  },
+  "2027-05-01": {
+    "libro": "Isaías",
+    "capitulo": 66,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-isaias.html#capitulo-66"
+  },
+  "2027-05-02": {
+    "libro": "Jeremías",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-1"
+  },
+  "2027-05-03": {
+    "libro": "Jeremías",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-2"
+  },
+  "2027-05-04": {
+    "libro": "Jeremías",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-3"
+  },
+  "2027-05-05": {
+    "libro": "Jeremías",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-4"
+  },
+  "2027-05-06": {
+    "libro": "Jeremías",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-5"
+  },
+  "2027-05-07": {
+    "libro": "Jeremías",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-6"
+  },
+  "2027-05-08": {
+    "libro": "Jeremías",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-7"
+  },
+  "2027-05-09": {
+    "libro": "Jeremías",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-8"
+  },
+  "2027-05-10": {
+    "libro": "Jeremías",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-9"
+  },
+  "2027-05-11": {
+    "libro": "Jeremías",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-10"
+  },
+  "2027-05-12": {
+    "libro": "Jeremías",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-11"
+  },
+  "2027-05-13": {
+    "libro": "Jeremías",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-12"
+  },
+  "2027-05-14": {
+    "libro": "Jeremías",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-13"
+  },
+  "2027-05-15": {
+    "libro": "Jeremías",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-14"
+  },
+  "2027-05-16": {
+    "libro": "Jeremías",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-15"
+  },
+  "2027-05-17": {
+    "libro": "Jeremías",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-16"
+  },
+  "2027-05-18": {
+    "libro": "Jeremías",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-17"
+  },
+  "2027-05-19": {
+    "libro": "Jeremías",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-18"
+  },
+  "2027-05-20": {
+    "libro": "Jeremías",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-19"
+  },
+  "2027-05-21": {
+    "libro": "Jeremías",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-20"
+  },
+  "2027-05-22": {
+    "libro": "Jeremías",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-21"
+  },
+  "2027-05-23": {
+    "libro": "Jeremías",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-22"
+  },
+  "2027-05-24": {
+    "libro": "Jeremías",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-23"
+  },
+  "2027-05-25": {
+    "libro": "Jeremías",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-24"
+  },
+  "2027-05-26": {
+    "libro": "Jeremías",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-25"
+  },
+  "2027-05-27": {
+    "libro": "Jeremías",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-26"
+  },
+  "2027-05-28": {
+    "libro": "Jeremías",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-27"
+  },
+  "2027-05-29": {
+    "libro": "Jeremías",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-28"
+  },
+  "2027-05-30": {
+    "libro": "Jeremías",
+    "capitulo": 29,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-29"
+  },
+  "2027-05-31": {
+    "libro": "Jeremías",
+    "capitulo": 30,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-30"
+  },
+  "2027-06-01": {
+    "libro": "Jeremías",
+    "capitulo": 31,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-31"
+  },
+  "2027-06-02": {
+    "libro": "Jeremías",
+    "capitulo": 32,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-32"
+  },
+  "2027-06-03": {
+    "libro": "Jeremías",
+    "capitulo": 33,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-33"
+  },
+  "2027-06-04": {
+    "libro": "Jeremías",
+    "capitulo": 34,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-34"
+  },
+  "2027-06-05": {
+    "libro": "Jeremías",
+    "capitulo": 35,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-35"
+  },
+  "2027-06-06": {
+    "libro": "Jeremías",
+    "capitulo": 36,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-36"
+  },
+  "2027-06-07": {
+    "libro": "Jeremías",
+    "capitulo": 37,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-37"
+  },
+  "2027-06-08": {
+    "libro": "Jeremías",
+    "capitulo": 38,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-38"
+  },
+  "2027-06-09": {
+    "libro": "Jeremías",
+    "capitulo": 39,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-39"
+  },
+  "2027-06-10": {
+    "libro": "Jeremías",
+    "capitulo": 40,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-40"
+  },
+  "2027-06-11": {
+    "libro": "Jeremías",
+    "capitulo": 41,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-41"
+  },
+  "2027-06-12": {
+    "libro": "Jeremías",
+    "capitulo": 42,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-42"
+  },
+  "2027-06-13": {
+    "libro": "Jeremías",
+    "capitulo": 43,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-43"
+  },
+  "2027-06-14": {
+    "libro": "Jeremías",
+    "capitulo": 44,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-44"
+  },
+  "2027-06-15": {
+    "libro": "Jeremías",
+    "capitulo": 45,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-45"
+  },
+  "2027-06-16": {
+    "libro": "Jeremías",
+    "capitulo": 46,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-46"
+  },
+  "2027-06-17": {
+    "libro": "Jeremías",
+    "capitulo": 47,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-47"
+  },
+  "2027-06-18": {
+    "libro": "Jeremías",
+    "capitulo": 48,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-48"
+  },
+  "2027-06-19": {
+    "libro": "Jeremías",
+    "capitulo": 49,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-49"
+  },
+  "2027-06-20": {
+    "libro": "Jeremías",
+    "capitulo": 50,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-50"
+  },
+  "2027-06-21": {
+    "libro": "Jeremías",
+    "capitulo": 51,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-51"
+  },
+  "2027-06-22": {
+    "libro": "Jeremías",
+    "capitulo": 52,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jeremias.html#capitulo-52"
+  },
+  "2027-06-23": {
+    "libro": "Lamentaciones",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lamentaciones.html#capitulo-1"
+  },
+  "2027-06-24": {
+    "libro": "Lamentaciones",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lamentaciones.html#capitulo-2"
+  },
+  "2027-06-25": {
+    "libro": "Lamentaciones",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lamentaciones.html#capitulo-3"
+  },
+  "2027-06-26": {
+    "libro": "Lamentaciones",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lamentaciones.html#capitulo-4"
+  },
+  "2027-06-27": {
+    "libro": "Lamentaciones",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lamentaciones.html#capitulo-5"
+  },
+  "2027-06-28": {
+    "libro": "Ezequiel",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-1"
+  },
+  "2027-06-29": {
+    "libro": "Ezequiel",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-2"
+  },
+  "2027-06-30": {
+    "libro": "Ezequiel",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-3"
+  },
+  "2027-07-01": {
+    "libro": "Ezequiel",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-4"
+  },
+  "2027-07-02": {
+    "libro": "Ezequiel",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-5"
+  },
+  "2027-07-03": {
+    "libro": "Ezequiel",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-6"
+  },
+  "2027-07-04": {
+    "libro": "Ezequiel",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-7"
+  },
+  "2027-07-05": {
+    "libro": "Ezequiel",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-8"
+  },
+  "2027-07-06": {
+    "libro": "Ezequiel",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-9"
+  },
+  "2027-07-07": {
+    "libro": "Ezequiel",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-10"
+  },
+  "2027-07-08": {
+    "libro": "Ezequiel",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-11"
+  },
+  "2027-07-09": {
+    "libro": "Ezequiel",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-12"
+  },
+  "2027-07-10": {
+    "libro": "Ezequiel",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-13"
+  },
+  "2027-07-11": {
+    "libro": "Ezequiel",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-14"
+  },
+  "2027-07-12": {
+    "libro": "Ezequiel",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-15"
+  },
+  "2027-07-13": {
+    "libro": "Ezequiel",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-16"
+  },
+  "2027-07-14": {
+    "libro": "Ezequiel",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-17"
+  },
+  "2027-07-15": {
+    "libro": "Ezequiel",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-18"
+  },
+  "2027-07-16": {
+    "libro": "Ezequiel",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-19"
+  },
+  "2027-07-17": {
+    "libro": "Ezequiel",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-20"
+  },
+  "2027-07-18": {
+    "libro": "Ezequiel",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-21"
+  },
+  "2027-07-19": {
+    "libro": "Ezequiel",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-22"
+  },
+  "2027-07-20": {
+    "libro": "Ezequiel",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-23"
+  },
+  "2027-07-21": {
+    "libro": "Ezequiel",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-24"
+  },
+  "2027-07-22": {
+    "libro": "Ezequiel",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-25"
+  },
+  "2027-07-23": {
+    "libro": "Ezequiel",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-26"
+  },
+  "2027-07-24": {
+    "libro": "Ezequiel",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-27"
+  },
+  "2027-07-25": {
+    "libro": "Ezequiel",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-28"
+  },
+  "2027-07-26": {
+    "libro": "Ezequiel",
+    "capitulo": 29,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-29"
+  },
+  "2027-07-27": {
+    "libro": "Ezequiel",
+    "capitulo": 30,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-30"
+  },
+  "2027-07-28": {
+    "libro": "Ezequiel",
+    "capitulo": 31,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-31"
+  },
+  "2027-07-29": {
+    "libro": "Ezequiel",
+    "capitulo": 32,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-32"
+  },
+  "2027-07-30": {
+    "libro": "Ezequiel",
+    "capitulo": 33,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-33"
+  },
+  "2027-07-31": {
+    "libro": "Ezequiel",
+    "capitulo": 34,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-34"
+  },
+  "2027-08-01": {
+    "libro": "Ezequiel",
+    "capitulo": 35,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-35"
+  },
+  "2027-08-02": {
+    "libro": "Ezequiel",
+    "capitulo": 36,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-36"
+  },
+  "2027-08-03": {
+    "libro": "Ezequiel",
+    "capitulo": 37,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-37"
+  },
+  "2027-08-04": {
+    "libro": "Ezequiel",
+    "capitulo": 38,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-38"
+  },
+  "2027-08-05": {
+    "libro": "Ezequiel",
+    "capitulo": 39,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-39"
+  },
+  "2027-08-06": {
+    "libro": "Ezequiel",
+    "capitulo": 40,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-40"
+  },
+  "2027-08-07": {
+    "libro": "Ezequiel",
+    "capitulo": 41,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-41"
+  },
+  "2027-08-08": {
+    "libro": "Ezequiel",
+    "capitulo": 42,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-42"
+  },
+  "2027-08-09": {
+    "libro": "Ezequiel",
+    "capitulo": 43,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-43"
+  },
+  "2027-08-10": {
+    "libro": "Ezequiel",
+    "capitulo": 44,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-44"
+  },
+  "2027-08-11": {
+    "libro": "Ezequiel",
+    "capitulo": 45,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-45"
+  },
+  "2027-08-12": {
+    "libro": "Ezequiel",
+    "capitulo": 46,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-46"
+  },
+  "2027-08-13": {
+    "libro": "Ezequiel",
+    "capitulo": 47,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-47"
+  },
+  "2027-08-14": {
+    "libro": "Ezequiel",
+    "capitulo": 48,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-ezequiel.html#capitulo-48"
+  },
+  "2027-08-15": {
+    "libro": "Daniel",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-1"
+  },
+  "2027-08-16": {
+    "libro": "Daniel",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-2"
+  },
+  "2027-08-17": {
+    "libro": "Daniel",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-3"
+  },
+  "2027-08-18": {
+    "libro": "Daniel",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-4"
+  },
+  "2027-08-19": {
+    "libro": "Daniel",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-5"
+  },
+  "2027-08-20": {
+    "libro": "Daniel",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-6"
+  },
+  "2027-08-21": {
+    "libro": "Daniel",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-7"
+  },
+  "2027-08-22": {
+    "libro": "Daniel",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-8"
+  },
+  "2027-08-23": {
+    "libro": "Daniel",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-9"
+  },
+  "2027-08-24": {
+    "libro": "Daniel",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-10"
+  },
+  "2027-08-25": {
+    "libro": "Daniel",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-11"
+  },
+  "2027-08-26": {
+    "libro": "Daniel",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-daniel.html#capitulo-12"
+  },
+  "2027-08-27": {
+    "libro": "Oseas",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-1"
+  },
+  "2027-08-28": {
+    "libro": "Oseas",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-2"
+  },
+  "2027-08-29": {
+    "libro": "Oseas",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-3"
+  },
+  "2027-08-30": {
+    "libro": "Oseas",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-4"
+  },
+  "2027-08-31": {
+    "libro": "Oseas",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-5"
+  },
+  "2027-09-01": {
+    "libro": "Oseas",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-6"
+  },
+  "2027-09-02": {
+    "libro": "Oseas",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-7"
+  },
+  "2027-09-03": {
+    "libro": "Oseas",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-8"
+  },
+  "2027-09-04": {
+    "libro": "Oseas",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-9"
+  },
+  "2027-09-05": {
+    "libro": "Oseas",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-10"
+  },
+  "2027-09-06": {
+    "libro": "Oseas",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-11"
+  },
+  "2027-09-07": {
+    "libro": "Oseas",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-12"
+  },
+  "2027-09-08": {
+    "libro": "Oseas",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-13"
+  },
+  "2027-09-09": {
+    "libro": "Oseas",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-oseas.html#capitulo-14"
+  },
+  "2027-09-10": {
+    "libro": "Joel",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-joel.html#capitulo-1"
+  },
+  "2027-09-11": {
+    "libro": "Joel",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-joel.html#capitulo-2"
+  },
+  "2027-09-12": {
+    "libro": "Joel",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-joel.html#capitulo-3"
+  },
+  "2027-09-13": {
+    "libro": "Amos",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-amos.html#capitulo-1"
+  },
+  "2027-09-14": {
+    "libro": "Amos",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-amos.html#capitulo-2"
+  },
+  "2027-09-15": {
+    "libro": "Amos",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-amos.html#capitulo-3"
+  },
+  "2027-09-16": {
+    "libro": "Amos",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-amos.html#capitulo-4"
+  },
+  "2027-09-17": {
+    "libro": "Amos",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-amos.html#capitulo-5"
+  },
+  "2027-09-18": {
+    "libro": "Amos",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-amos.html#capitulo-6"
+  },
+  "2027-09-19": {
+    "libro": "Amos",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-amos.html#capitulo-7"
+  },
+  "2027-09-20": {
+    "libro": "Amos",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-amos.html#capitulo-8"
+  },
+  "2027-09-21": {
+    "libro": "Amos",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-amos.html#capitulo-9"
+  },
+  "2027-09-22": {
+    "libro": "Abdías",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-abdias.html#capitulo-1"
+  },
+  "2027-09-23": {
+    "libro": "Jonás",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jonas.html#capitulo-1"
+  },
+  "2027-09-24": {
+    "libro": "Jonás",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jonas.html#capitulo-2"
+  },
+  "2027-09-25": {
+    "libro": "Jonás",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jonas.html#capitulo-3"
+  },
+  "2027-09-26": {
+    "libro": "Jonás",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-jonas.html#capitulo-4"
+  },
+  "2027-09-27": {
+    "libro": "Miqueas",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-miqueas.html#capitulo-1"
+  },
+  "2027-09-28": {
+    "libro": "Miqueas",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-miqueas.html#capitulo-2"
+  },
+  "2027-09-29": {
+    "libro": "Miqueas",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-miqueas.html#capitulo-3"
+  },
+  "2027-09-30": {
+    "libro": "Miqueas",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-miqueas.html#capitulo-4"
+  },
+  "2027-10-01": {
+    "libro": "Miqueas",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-miqueas.html#capitulo-5"
+  },
+  "2027-10-02": {
+    "libro": "Miqueas",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-miqueas.html#capitulo-6"
+  },
+  "2027-10-03": {
+    "libro": "Miqueas",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-miqueas.html#capitulo-7"
+  },
+  "2027-10-04": {
+    "libro": "Nahúm",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nahum.html#capitulo-1"
+  },
+  "2027-10-05": {
+    "libro": "Nahúm",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nahum.html#capitulo-2"
+  },
+  "2027-10-06": {
+    "libro": "Nahúm",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-nahum.html#capitulo-3"
+  },
+  "2027-10-07": {
+    "libro": "Habacuc",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-habacuc.html#capitulo-1"
+  },
+  "2027-10-08": {
+    "libro": "Habacuc",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-habacuc.html#capitulo-2"
+  },
+  "2027-10-09": {
+    "libro": "Habacuc",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-habacuc.html#capitulo-3"
+  },
+  "2027-10-10": {
+    "libro": "Sofonías",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-sofonias.html#capitulo-1"
+  },
+  "2027-10-11": {
+    "libro": "Sofonías",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-sofonias.html#capitulo-2"
+  },
+  "2027-10-12": {
+    "libro": "Sofonías",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-sofonias.html#capitulo-3"
+  },
+  "2027-10-13": {
+    "libro": "Hageo",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hageo.html#capitulo-1"
+  },
+  "2027-10-14": {
+    "libro": "Hageo",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hageo.html#capitulo-2"
+  },
+  "2027-10-15": {
+    "libro": "Zacarias",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-1"
+  },
+  "2027-10-16": {
+    "libro": "Zacarias",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-2"
+  },
+  "2027-10-17": {
+    "libro": "Zacarias",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-3"
+  },
+  "2027-10-18": {
+    "libro": "Zacarias",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-4"
+  },
+  "2027-10-19": {
+    "libro": "Zacarias",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-5"
+  },
+  "2027-10-20": {
+    "libro": "Zacarias",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-6"
+  },
+  "2027-10-21": {
+    "libro": "Zacarias",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-7"
+  },
+  "2027-10-22": {
+    "libro": "Zacarias",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-8"
+  },
+  "2027-10-23": {
+    "libro": "Zacarias",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-9"
+  },
+  "2027-10-24": {
+    "libro": "Zacarias",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-10"
+  },
+  "2027-10-25": {
+    "libro": "Zacarias",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-11"
+  },
+  "2027-10-26": {
+    "libro": "Zacarias",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-12"
+  },
+  "2027-10-27": {
+    "libro": "Zacarias",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-13"
+  },
+  "2027-10-28": {
+    "libro": "Zacarias",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-zacarias.html#capitulo-14"
+  },
+  "2027-10-29": {
+    "libro": "Malaquías",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-malaquias.html#capitulo-1"
+  },
+  "2027-10-30": {
+    "libro": "Malaquías",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-malaquias.html#capitulo-2"
+  },
+  "2027-10-31": {
+    "libro": "Malaquías",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-malaquias.html#capitulo-3"
+  },
+  "2027-11-01": {
+    "libro": "Malaquías",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-malaquias.html#capitulo-4"
+  },
+  "2027-11-02": {
+    "libro": "Mateo",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-1"
+  },
+  "2027-11-03": {
+    "libro": "Mateo",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-2"
+  },
+  "2027-11-04": {
+    "libro": "Mateo",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-3"
+  },
+  "2027-11-05": {
+    "libro": "Mateo",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-4"
+  },
+  "2027-11-06": {
+    "libro": "Mateo",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-5"
+  },
+  "2027-11-07": {
+    "libro": "Mateo",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-6"
+  },
+  "2027-11-08": {
+    "libro": "Mateo",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-7"
+  },
+  "2027-11-09": {
+    "libro": "Mateo",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-8"
+  },
+  "2027-11-10": {
+    "libro": "Mateo",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-9"
+  },
+  "2027-11-11": {
+    "libro": "Mateo",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-10"
+  },
+  "2027-11-12": {
+    "libro": "Mateo",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-11"
+  },
+  "2027-11-13": {
+    "libro": "Mateo",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-12"
+  },
+  "2027-11-14": {
+    "libro": "Mateo",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-13"
+  },
+  "2027-11-15": {
+    "libro": "Mateo",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-14"
+  },
+  "2027-11-16": {
+    "libro": "Mateo",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-15"
+  },
+  "2027-11-17": {
+    "libro": "Mateo",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-16"
+  },
+  "2027-11-18": {
+    "libro": "Mateo",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-17"
+  },
+  "2027-11-19": {
+    "libro": "Mateo",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-18"
+  },
+  "2027-11-20": {
+    "libro": "Mateo",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-19"
+  },
+  "2027-11-21": {
+    "libro": "Mateo",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-20"
+  },
+  "2027-11-22": {
+    "libro": "Mateo",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-21"
+  },
+  "2027-11-23": {
+    "libro": "Mateo",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-22"
+  },
+  "2027-11-24": {
+    "libro": "Mateo",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-23"
+  },
+  "2027-11-25": {
+    "libro": "Mateo",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-24"
+  },
+  "2027-11-26": {
+    "libro": "Mateo",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-25"
+  },
+  "2027-11-27": {
+    "libro": "Mateo",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-26"
+  },
+  "2027-11-28": {
+    "libro": "Mateo",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-27"
+  },
+  "2027-11-29": {
+    "libro": "Mateo",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-mateo.html#capitulo-28"
+  },
+  "2027-11-30": {
+    "libro": "Marcos",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-1"
+  },
+  "2027-12-01": {
+    "libro": "Marcos",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-2"
+  },
+  "2027-12-02": {
+    "libro": "Marcos",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-3"
+  },
+  "2027-12-03": {
+    "libro": "Marcos",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-4"
+  },
+  "2027-12-04": {
+    "libro": "Marcos",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-5"
+  },
+  "2027-12-05": {
+    "libro": "Marcos",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-6"
+  },
+  "2027-12-06": {
+    "libro": "Marcos",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-7"
+  },
+  "2027-12-07": {
+    "libro": "Marcos",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-8"
+  },
+  "2027-12-08": {
+    "libro": "Marcos",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-9"
+  },
+  "2027-12-09": {
+    "libro": "Marcos",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-10"
+  },
+  "2027-12-10": {
+    "libro": "Marcos",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-11"
+  },
+  "2027-12-11": {
+    "libro": "Marcos",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-12"
+  },
+  "2027-12-12": {
+    "libro": "Marcos",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-13"
+  },
+  "2027-12-13": {
+    "libro": "Marcos",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-14"
+  },
+  "2027-12-14": {
+    "libro": "Marcos",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-15"
+  },
+  "2027-12-15": {
+    "libro": "Marcos",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-marcos.html#capitulo-16"
+  },
+  "2027-12-16": {
+    "libro": "Lucas",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-1"
+  },
+  "2027-12-17": {
+    "libro": "Lucas",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-2"
+  },
+  "2027-12-18": {
+    "libro": "Lucas",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-3"
+  },
+  "2027-12-19": {
+    "libro": "Lucas",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-4"
+  },
+  "2027-12-20": {
+    "libro": "Lucas",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-5"
+  },
+  "2027-12-21": {
+    "libro": "Lucas",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-6"
+  },
+  "2027-12-22": {
+    "libro": "Lucas",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-7"
+  },
+  "2027-12-23": {
+    "libro": "Lucas",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-8"
+  },
+  "2027-12-24": {
+    "libro": "Lucas",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-9"
+  },
+  "2027-12-25": {
+    "libro": "Lucas",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-10"
+  },
+  "2027-12-26": {
+    "libro": "Lucas",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-11"
+  },
+  "2027-12-27": {
+    "libro": "Lucas",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-12"
+  },
+  "2027-12-28": {
+    "libro": "Lucas",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-13"
+  },
+  "2027-12-29": {
+    "libro": "Lucas",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-14"
+  },
+  "2027-12-30": {
+    "libro": "Lucas",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-15"
+  },
+  "2027-12-31": {
+    "libro": "Lucas",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-16"
+  },
+  "2028-01-01": {
+    "libro": "Lucas",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-17"
+  },
+  "2028-01-02": {
+    "libro": "Lucas",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-18"
+  },
+  "2028-01-03": {
+    "libro": "Lucas",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-19"
+  },
+  "2028-01-04": {
+    "libro": "Lucas",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-20"
+  },
+  "2028-01-05": {
+    "libro": "Lucas",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-21"
+  },
+  "2028-01-06": {
+    "libro": "Lucas",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-22"
+  },
+  "2028-01-07": {
+    "libro": "Lucas",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-23"
+  },
+  "2028-01-08": {
+    "libro": "Lucas",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-lucas.html#capitulo-24"
+  },
+  "2028-01-09": {
+    "libro": "Juan",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-1"
+  },
+  "2028-01-10": {
+    "libro": "Juan",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-2"
+  },
+  "2028-01-11": {
+    "libro": "Juan",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-3"
+  },
+  "2028-01-12": {
+    "libro": "Juan",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-4"
+  },
+  "2028-01-13": {
+    "libro": "Juan",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-5"
+  },
+  "2028-01-14": {
+    "libro": "Juan",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-6"
+  },
+  "2028-01-15": {
+    "libro": "Juan",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-7"
+  },
+  "2028-01-16": {
+    "libro": "Juan",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-8"
+  },
+  "2028-01-17": {
+    "libro": "Juan",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-9"
+  },
+  "2028-01-18": {
+    "libro": "Juan",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-10"
+  },
+  "2028-01-19": {
+    "libro": "Juan",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-11"
+  },
+  "2028-01-20": {
+    "libro": "Juan",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-12"
+  },
+  "2028-01-21": {
+    "libro": "Juan",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-13"
+  },
+  "2028-01-22": {
+    "libro": "Juan",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-14"
+  },
+  "2028-01-23": {
+    "libro": "Juan",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-15"
+  },
+  "2028-01-24": {
+    "libro": "Juan",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-16"
+  },
+  "2028-01-25": {
+    "libro": "Juan",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-17"
+  },
+  "2028-01-26": {
+    "libro": "Juan",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-18"
+  },
+  "2028-01-27": {
+    "libro": "Juan",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-19"
+  },
+  "2028-01-28": {
+    "libro": "Juan",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-20"
+  },
+  "2028-01-29": {
+    "libro": "Juan",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-juan.html#capitulo-21"
+  },
+  "2028-01-30": {
+    "libro": "Hechos",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-1"
+  },
+  "2028-01-31": {
+    "libro": "Hechos",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-2"
+  },
+  "2028-02-01": {
+    "libro": "Hechos",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-3"
+  },
+  "2028-02-02": {
+    "libro": "Hechos",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-4"
+  },
+  "2028-02-03": {
+    "libro": "Hechos",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-5"
+  },
+  "2028-02-04": {
+    "libro": "Hechos",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-6"
+  },
+  "2028-02-05": {
+    "libro": "Hechos",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-7"
+  },
+  "2028-02-06": {
+    "libro": "Hechos",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-8"
+  },
+  "2028-02-07": {
+    "libro": "Hechos",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-9"
+  },
+  "2028-02-08": {
+    "libro": "Hechos",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-10"
+  },
+  "2028-02-09": {
+    "libro": "Hechos",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-11"
+  },
+  "2028-02-10": {
+    "libro": "Hechos",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-12"
+  },
+  "2028-02-11": {
+    "libro": "Hechos",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-13"
+  },
+  "2028-02-12": {
+    "libro": "Hechos",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-14"
+  },
+  "2028-02-13": {
+    "libro": "Hechos",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-15"
+  },
+  "2028-02-14": {
+    "libro": "Hechos",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-16"
+  },
+  "2028-02-15": {
+    "libro": "Hechos",
+    "capitulo": 17,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-17"
+  },
+  "2028-02-16": {
+    "libro": "Hechos",
+    "capitulo": 18,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-18"
+  },
+  "2028-02-17": {
+    "libro": "Hechos",
+    "capitulo": 19,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-19"
+  },
+  "2028-02-18": {
+    "libro": "Hechos",
+    "capitulo": 20,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-20"
+  },
+  "2028-02-19": {
+    "libro": "Hechos",
+    "capitulo": 21,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-21"
+  },
+  "2028-02-20": {
+    "libro": "Hechos",
+    "capitulo": 22,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-22"
+  },
+  "2028-02-21": {
+    "libro": "Hechos",
+    "capitulo": 23,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-23"
+  },
+  "2028-02-22": {
+    "libro": "Hechos",
+    "capitulo": 24,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-24"
+  },
+  "2028-02-23": {
+    "libro": "Hechos",
+    "capitulo": 25,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-25"
+  },
+  "2028-02-24": {
+    "libro": "Hechos",
+    "capitulo": 26,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-26"
+  },
+  "2028-02-25": {
+    "libro": "Hechos",
+    "capitulo": 27,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-27"
+  },
+  "2028-02-26": {
+    "libro": "Hechos",
+    "capitulo": 28,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hechos.html#capitulo-28"
+  },
+  "2028-02-27": {
+    "libro": "Romanos",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-1"
+  },
+  "2028-02-28": {
+    "libro": "Romanos",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-2"
+  },
+  "2028-02-29": {
+    "libro": "Romanos",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-3"
+  },
+  "2028-03-01": {
+    "libro": "Romanos",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-4"
+  },
+  "2028-03-02": {
+    "libro": "Romanos",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-5"
+  },
+  "2028-03-03": {
+    "libro": "Romanos",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-6"
+  },
+  "2028-03-04": {
+    "libro": "Romanos",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-7"
+  },
+  "2028-03-05": {
+    "libro": "Romanos",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-8"
+  },
+  "2028-03-06": {
+    "libro": "Romanos",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-9"
+  },
+  "2028-03-07": {
+    "libro": "Romanos",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-10"
+  },
+  "2028-03-08": {
+    "libro": "Romanos",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-11"
+  },
+  "2028-03-09": {
+    "libro": "Romanos",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-12"
+  },
+  "2028-03-10": {
+    "libro": "Romanos",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-13"
+  },
+  "2028-03-11": {
+    "libro": "Romanos",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-14"
+  },
+  "2028-03-12": {
+    "libro": "Romanos",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-15"
+  },
+  "2028-03-13": {
+    "libro": "Romanos",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-romanos.html#capitulo-16"
+  },
+  "2028-03-14": {
+    "libro": "1 Corintios",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-1"
+  },
+  "2028-03-15": {
+    "libro": "1 Corintios",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-2"
+  },
+  "2028-03-16": {
+    "libro": "1 Corintios",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-3"
+  },
+  "2028-03-17": {
+    "libro": "1 Corintios",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-4"
+  },
+  "2028-03-18": {
+    "libro": "1 Corintios",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-5"
+  },
+  "2028-03-19": {
+    "libro": "1 Corintios",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-6"
+  },
+  "2028-03-20": {
+    "libro": "1 Corintios",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-7"
+  },
+  "2028-03-21": {
+    "libro": "1 Corintios",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-8"
+  },
+  "2028-03-22": {
+    "libro": "1 Corintios",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-9"
+  },
+  "2028-03-23": {
+    "libro": "1 Corintios",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-10"
+  },
+  "2028-03-24": {
+    "libro": "1 Corintios",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-11"
+  },
+  "2028-03-25": {
+    "libro": "1 Corintios",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-12"
+  },
+  "2028-03-26": {
+    "libro": "1 Corintios",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-13"
+  },
+  "2028-03-27": {
+    "libro": "1 Corintios",
+    "capitulo": 14,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-14"
+  },
+  "2028-03-28": {
+    "libro": "1 Corintios",
+    "capitulo": 15,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-15"
+  },
+  "2028-03-29": {
+    "libro": "1 Corintios",
+    "capitulo": 16,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-corintios.html#capitulo-16"
+  },
+  "2028-03-30": {
+    "libro": "2 Corintios",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-1"
+  },
+  "2028-03-31": {
+    "libro": "2 Corintios",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-2"
+  },
+  "2028-04-01": {
+    "libro": "2 Corintios",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-3"
+  },
+  "2028-04-02": {
+    "libro": "2 Corintios",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-4"
+  },
+  "2028-04-03": {
+    "libro": "2 Corintios",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-5"
+  },
+  "2028-04-04": {
+    "libro": "2 Corintios",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-6"
+  },
+  "2028-04-05": {
+    "libro": "2 Corintios",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-7"
+  },
+  "2028-04-06": {
+    "libro": "2 Corintios",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-8"
+  },
+  "2028-04-07": {
+    "libro": "2 Corintios",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-9"
+  },
+  "2028-04-08": {
+    "libro": "2 Corintios",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-10"
+  },
+  "2028-04-09": {
+    "libro": "2 Corintios",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-11"
+  },
+  "2028-04-10": {
+    "libro": "2 Corintios",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-12"
+  },
+  "2028-04-11": {
+    "libro": "2 Corintios",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-2-corintios.html#capitulo-13"
+  },
+  "2028-04-12": {
+    "libro": "Gálatas",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-galatas.html#capitulo-1"
+  },
+  "2028-04-13": {
+    "libro": "Gálatas",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-galatas.html#capitulo-2"
+  },
+  "2028-04-14": {
+    "libro": "Gálatas",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-galatas.html#capitulo-3"
+  },
+  "2028-04-15": {
+    "libro": "Gálatas",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-galatas.html#capitulo-4"
+  },
+  "2028-04-16": {
+    "libro": "Gálatas",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-galatas.html#capitulo-5"
+  },
+  "2028-04-17": {
+    "libro": "Gálatas",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-galatas.html#capitulo-6"
+  },
+  "2028-04-18": {
+    "libro": "Efesios",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-efesios.html#capitulo-1"
+  },
+  "2028-04-19": {
+    "libro": "Efesios",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-efesios.html#capitulo-2"
+  },
+  "2028-04-20": {
+    "libro": "Efesios",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-efesios.html#capitulo-3"
+  },
+  "2028-04-21": {
+    "libro": "Efesios",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-efesios.html#capitulo-4"
+  },
+  "2028-04-22": {
+    "libro": "Efesios",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-efesios.html#capitulo-5"
+  },
+  "2028-04-23": {
+    "libro": "Efesios",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-efesios.html#capitulo-6"
+  },
+  "2028-04-24": {
+    "libro": "Filipenses",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-filipenses.html#capitulo-1"
+  },
+  "2028-04-25": {
+    "libro": "Filipenses",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-filipenses.html#capitulo-2"
+  },
+  "2028-04-26": {
+    "libro": "Filipenses",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-filipenses.html#capitulo-3"
+  },
+  "2028-04-27": {
+    "libro": "Filipenses",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-filipenses.html#capitulo-4"
+  },
+  "2028-04-28": {
+    "libro": "Colosenses",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-colosenses.html#capitulo-1"
+  },
+  "2028-04-29": {
+    "libro": "Colosenses",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-colosenses.html#capitulo-2"
+  },
+  "2028-04-30": {
+    "libro": "Colosenses",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-colosenses.html#capitulo-3"
+  },
+  "2028-05-01": {
+    "libro": "Colosenses",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-colosenses.html#capitulo-4"
+  },
+  "2028-05-02": {
+    "libro": "1 Tesalonicenses",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-tesalonicenses.html#capitulo-1"
+  },
+  "2028-05-03": {
+    "libro": "1 Tesalonicenses",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-tesalonicenses.html#capitulo-2"
+  },
+  "2028-05-04": {
+    "libro": "1 Tesalonicenses",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-tesalonicenses.html#capitulo-3"
+  },
+  "2028-05-05": {
+    "libro": "1 Tesalonicenses",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-tesalonicenses.html#capitulo-4"
+  },
+  "2028-05-06": {
+    "libro": "1 Tesalonicenses",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-tesalonicenses.html#capitulo-5"
+  },
+  "2028-05-07": {
+    "libro": "2 Tesalonicenses",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-tesalonicenses.html#capitulo-1"
+  },
+  "2028-05-08": {
+    "libro": "2 Tesalonicenses",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-tesalonicenses.html#capitulo-2"
+  },
+  "2028-05-09": {
+    "libro": "2 Tesalonicenses",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-tesalonicenses.html#capitulo-3"
+  },
+  "2028-05-10": {
+    "libro": "1 Timoteo",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-timoteo.html#capitulo-1"
+  },
+  "2028-05-11": {
+    "libro": "1 Timoteo",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-timoteo.html#capitulo-2"
+  },
+  "2028-05-12": {
+    "libro": "1 Timoteo",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-timoteo.html#capitulo-3"
+  },
+  "2028-05-13": {
+    "libro": "1 Timoteo",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-timoteo.html#capitulo-4"
+  },
+  "2028-05-14": {
+    "libro": "1 Timoteo",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-timoteo.html#capitulo-5"
+  },
+  "2028-05-15": {
+    "libro": "1 Timoteo",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-timoteo.html#capitulo-6"
+  },
+  "2028-05-16": {
+    "libro": "2 Timoteo",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-timoteo.html#capitulo-1"
+  },
+  "2028-05-17": {
+    "libro": "2 Timoteo",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-timoteo.html#capitulo-2"
+  },
+  "2028-05-18": {
+    "libro": "2 Timoteo",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-timoteo.html#capitulo-3"
+  },
+  "2028-05-19": {
+    "libro": "2 Timoteo",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-timoteo.html#capitulo-4"
+  },
+  "2028-05-20": {
+    "libro": "Tito",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-tito.html#capitulo-1"
+  },
+  "2028-05-21": {
+    "libro": "Tito",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-tito.html#capitulo-2"
+  },
+  "2028-05-22": {
+    "libro": "Tito",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-tito.html#capitulo-3"
+  },
+  "2028-05-23": {
+    "libro": "Filemón",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-filemon.html#capitulo-1"
+  },
+  "2028-05-24": {
+    "libro": "Hebreos",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-1"
+  },
+  "2028-05-25": {
+    "libro": "Hebreos",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-2"
+  },
+  "2028-05-26": {
+    "libro": "Hebreos",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-3"
+  },
+  "2028-05-27": {
+    "libro": "Hebreos",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-4"
+  },
+  "2028-05-28": {
+    "libro": "Hebreos",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-5"
+  },
+  "2028-05-29": {
+    "libro": "Hebreos",
+    "capitulo": 6,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-6"
+  },
+  "2028-05-30": {
+    "libro": "Hebreos",
+    "capitulo": 7,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-7"
+  },
+  "2028-05-31": {
+    "libro": "Hebreos",
+    "capitulo": 8,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-8"
+  },
+  "2028-06-01": {
+    "libro": "Hebreos",
+    "capitulo": 9,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-9"
+  },
+  "2028-06-02": {
+    "libro": "Hebreos",
+    "capitulo": 10,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-10"
+  },
+  "2028-06-03": {
+    "libro": "Hebreos",
+    "capitulo": 11,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-11"
+  },
+  "2028-06-04": {
+    "libro": "Hebreos",
+    "capitulo": 12,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-12"
+  },
+  "2028-06-05": {
+    "libro": "Hebreos",
+    "capitulo": 13,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-hebreos.html#capitulo-13"
+  },
+  "2028-06-06": {
+    "libro": "Santiago",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-santiago.html#capitulo-1"
+  },
+  "2028-06-07": {
+    "libro": "Santiago",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-santiago.html#capitulo-2"
+  },
+  "2028-06-08": {
+    "libro": "Santiago",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-santiago.html#capitulo-3"
+  },
+  "2028-06-09": {
+    "libro": "Santiago",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-santiago.html#capitulo-4"
+  },
+  "2028-06-10": {
+    "libro": "Santiago",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-santiago.html#capitulo-5"
+  },
+  "2028-06-11": {
+    "libro": "1 Pedro",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-pedro.html#capitulo-1"
+  },
+  "2028-06-12": {
+    "libro": "1 Pedro",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-pedro.html#capitulo-2"
+  },
+  "2028-06-13": {
+    "libro": "1 Pedro",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-pedro.html#capitulo-3"
+  },
+  "2028-06-14": {
+    "libro": "1 Pedro",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-pedro.html#capitulo-4"
+  },
+  "2028-06-15": {
+    "libro": "1 Pedro",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-pedro.html#capitulo-5"
+  },
+  "2028-06-16": {
+    "libro": "2 Pedro",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-pedro.html#capitulo-1"
+  },
+  "2028-06-17": {
+    "libro": "2 Pedro",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-pedro.html#capitulo-2"
+  },
+  "2028-06-18": {
+    "libro": "2 Pedro",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-pedro.html#capitulo-3"
+  },
+  "2028-06-19": {
+    "libro": "1 Juan",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-juan.html#capitulo-1"
+  },
+  "2028-06-20": {
+    "libro": "1 Juan",
+    "capitulo": 2,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-juan.html#capitulo-2"
+  },
+  "2028-06-21": {
+    "libro": "1 Juan",
+    "capitulo": 3,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-juan.html#capitulo-3"
+  },
+  "2028-06-22": {
+    "libro": "1 Juan",
+    "capitulo": 4,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-juan.html#capitulo-4"
+  },
+  "2028-06-23": {
+    "libro": "1 Juan",
+    "capitulo": 5,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-1-juan.html#capitulo-5"
+  },
+  "2028-06-24": {
+    "libro": "2 Juan",
+    "capitulo": 1,
+    "enlace": "https://tecnobiblia21.blogspot.com/2025/10/libro-de-2-juan.html#capitulo-1"
+  }
+}
+</script>
+
+<div style="display:none">
+  Archivo generado automáticamente con lecturas Reavivados por su Palabra.
+</div>
